@@ -1,4 +1,4 @@
-:: // Hi, kitty!!! I Am MrPotter-0 :: //
+### :: // Hi, kitty!!! I Am MrPotter-0 :: //
 
 So, i continue on Russian language, bruh <3
 
@@ -26,4 +26,4 @@ So, i continue on Russian language, bruh <3
 ### > 3 : << Менеджер паролей >> - dekstop приложение для сохранения паролей в таблицу
 ### > 4 : << Про мой GameDev можете узнать на моем itch.io >> - https://mr-potter-game.itch.io/
 
-Goodbye , kitty <3 !
+### Goodbye , kitty <3 !
