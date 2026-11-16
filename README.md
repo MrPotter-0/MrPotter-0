@@ -10,9 +10,9 @@ So, i continue on Russian language, bruh <3
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### :: // Мои направления // ::
-> GameDev
-> frontend
-> dekstop
+### > GameDev
+### > frontend
+## > dekstop
 
 ### :: // Платформы // :: 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -20,10 +20,10 @@ So, i continue on Russian language, bruh <3
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### :: // Мои лучшие проекты // ::
-> Так как программирую очень мало их всего три:
-> 1 : << Менеджер финансов >> - проект в разработке , dekstop приложение для подсчета денег потраченных на жизненные потребности и построение красивых графиков с помощью maptolib
-> 2 : << Timer >> - сайт написанный на html и на js , полезный сайт
-> 3 : << Менеджер паролей >> - dekstop приложение для сохранения паролей в таблицу
-> 4 : << Про мой GameDev можете узнать на моем itch.io >> - https://mr-potter-game.itch.io/
+### > Так как программирую очень мало их всего три:
+### > 1 : << Менеджер финансов >> - проект в разработке , dekstop приложение для подсчета денег потраченных на жизненные потребности и построение красивых графиков с помощью maptolib
+### > 2 : << Timer >> - сайт написанный на html и на js , полезный сайт
+### > 3 : << Менеджер паролей >> - dekstop приложение для сохранения паролей в таблицу
+### > 4 : << Про мой GameDev можете узнать на моем itch.io >> - https://mr-potter-game.itch.io/
 
 Goodbye , kitty <3 !
